@@ -1,4 +1,4 @@
-ID,Nome,Idade,Cargo,Sal√°rio,Email,Data de Demiss√£o,Raz√£o da Demiss√£o
-ID18,Thiago Fernandes,35,Desenvolvedor S√™nior,6800.00,thiago.fernandes@example.com,2022-09-10,"Mudan√ßa de carreira"
-ID23,Gustavo Rodrigues,28,Desenvolvedor Pleno,5600.00,gustavo.rodrigues@example.com,2022-07-20,"Redu√ß√£o de equipe"
-ID16,Vinicius Santos,28,Desenvolvedor Pleno,5500.00,vinicius.santos@example.com,2022-06-05,"Desempenho insatisfat√≥rio"
+ID,Nome,Idade,Cargo,Sal·rio,Email,Data de Demiss„o,Raz„o da Demiss„o
+ID18,Thiago Fernandes,35,Desenvolvedor SÍnior,6800.00,thiago.fernandes@example.com,2022-09-10,"MudanÁa de carreira"
+ID23,Gustavo Rodrigues,28,Desenvolvedor Pleno,5600.00,gustavo.rodrigues@example.com,2022-07-20,"ReduÁ„o de equipe"
+ID16,Vinicius Santos,28,Desenvolvedor Pleno,5500.00,vinicius.santos@example.com,2022-06-05,"Desempenho insatisfatÛrio"
