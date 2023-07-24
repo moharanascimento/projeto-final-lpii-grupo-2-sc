@@ -1,0 +1,4 @@
+ID,Nome,Idade,Cargo,Salário,Email,Data de Demissão,Razão da Demissão
+ID5,Lucas Pereira,27,Desenvolvedor Júnior,3800.00,lucas.pereira@example.com,2021-09-10,"Insatisfação com o cargo"
+ID8,Fernanda Costa,26,Analista de Sistemas,4200.00,fernanda.costa@example.com,2021-07-20,"Mudança de carreira"
+ID10,Patrícia Fernandes,34,Analista de Marketing,4700.00,patricia.fernandes@example.com,2021-06-05,"Desempenho insatisfatório"

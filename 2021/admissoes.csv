@@ -1,0 +1,11 @@
+ID,Nome,Idade,Cargo,Salário,Email,Data de Admissão,Subordinados
+ID16,Vinicius Santos,28,Desenvolvedor Pleno,5500.00,vinicius.santos@example.com,2021-06-10,""
+ID17,Bianca Lima,33,Analista de Marketing,4600.00,bianca.lima@example.com,2021-02-28,""
+ID18,Thiago Fernandes,35,Desenvolvedor Sênior,6800.00,thiago.fernandes@example.com,2021-08-15,""
+ID19,Carla Mendes,30,Analista Financeiro,5100.00,carla.mendes@example.com,2021-07-01,""
+ID20,Ricardo Costa,26,Desenvolvedor Júnior,3900.00,ricardo.costa@example.com,2021-09-20,""
+ID21,Isabela Almeida,29,Analista de Recursos Humanos,4700.00,isabela.almeida@example.com,2021-06-05,""
+ID22,Larissa Oliveira,33,Gerente de Vendas,7400.00,larissa.oliveira@example.com,2021-03-18,"ID25"
+ID23,Gustavo Rodrigues,28,Desenvolvedor Pleno,5600.00,gustavo.rodrigues@example.com,2021-10-02,""
+ID24,Daniela Mendes,31,Analista de Marketing,4800.00,daniela.mendes@example.com,2021-07-15,""
+ID25,Felipe Fernandes,35,Desenvolvedor Sênior,6900.00,felipe.fernandes@example.com,2021-05-01,""

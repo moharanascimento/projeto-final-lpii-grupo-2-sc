@@ -1,0 +1,4 @@
+ID,Nome,Idade,Cargo,Salário,Email,Data de Demissão,Razão da Demissão
+ID18,Thiago Fernandes,35,Desenvolvedor Sênior,6800.00,thiago.fernandes@example.com,2022-09-10,"Mudança de carreira"
+ID23,Gustavo Rodrigues,28,Desenvolvedor Pleno,5600.00,gustavo.rodrigues@example.com,2022-07-20,"Redução de equipe"
+ID16,Vinicius Santos,28,Desenvolvedor Pleno,5500.00,vinicius.santos@example.com,2022-06-05,"Desempenho insatisfatório"
